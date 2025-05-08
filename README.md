@@ -1,9 +1,9 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name: GAUTHAM KRISHNA S
+Name: KATHI HASINI 
 
-Regno: 212223240036
+Regno: 212224240074
 
 # Ex03-Linux IPC - Pipes
 
